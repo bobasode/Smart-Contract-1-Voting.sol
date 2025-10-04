@@ -5,4 +5,4 @@ Kroki do uruchomienia kontraktu:
 4. Skonfiguruj sieć testown (np. Sepolia) w hardhat.config.js.
 5. Napisz skrypt deploy: `scripts/deploy.js`.
 6. Uruchom deploy: `npx hardhat run scripts/deploy.js --network sepolia`.
-7. Wejdn na Etherscan (testnet) i sprawdn swój kontrakt.
+7. Wejdz na Etherscan (testnet) i sprawdn swój kontrakt.
